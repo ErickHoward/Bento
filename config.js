@@ -48,13 +48,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com/',
     },
     {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://todoist.com/app/',
     },
     {
       id: '4',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.co.uk/',
     },
   ],
 
@@ -106,8 +106,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Managebac',
+        link: 'https://aicib.managebac.com/',
       },
       {
         name: 'Figma',
